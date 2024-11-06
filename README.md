@@ -4,6 +4,9 @@ Gear Indicator from the Hoonicorn Mustang using Arduino
 
 **YouTube video: XXX**
 
+![THUMB_hoonicorn_gear_indicator](https://github.com/user-attachments/assets/0e028dc6-6d5e-4675-83f7-d5e9f48e58f6)
+
+
 
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir

@@ -1,2 +1,2 @@
-# hoonicorn_gear_indicator
+# Gear Indicator from the Hoonicorn Mustang using Arduino
 Gear Indicator from the Hoonicorn Mustang using Arduino

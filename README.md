@@ -41,6 +41,8 @@ Related videos:
 - Speedometer: https://youtu.be/dSD02o3M2sw
 - Boost gauge with OLED: https://youtu.be/JXmw1xOlBdk
 
+_This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
+
 
 Small Animations:
 
